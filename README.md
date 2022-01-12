@@ -1,2 +1,2 @@
 # Python
-Python class work
+Here is a collection of Python class work
